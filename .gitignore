@@ -1,0 +1,16 @@
+/vendor/
+/node_modules/
+/public/dist/
+/storage/*.key
+/storage/logs/*.log
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+.DS_Store
+Thumbs.db
